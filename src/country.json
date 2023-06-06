@@ -1,0 +1,73 @@
+[
+    {
+        "country":"india",
+        "language":"Hindi",
+         "population":"1.3 million",
+         "capital":"delhi",
+         "currency":"Rupees",
+         "lat":"28.644800",
+         "lng":"77.216721"
+
+    },
+    {
+        "country":"Usa",
+        "language":"English",
+         "population":"140 milllion",
+         "capital":"Washingtondc",
+         "currency":"dollor",
+         "lat":"38.9072",
+         "lng":"77.0369"
+
+    },
+    {
+        "country":"England",
+        "language":"English",
+         "population":"14 million",
+         "capital":"london",
+         "currency":"pound",
+         "lat":"51.5072",
+         "lng":"0.1276"
+
+    },
+    {
+        "country":"nepal",
+        "language":"Hindi",
+         "population":"4 million",
+         "capital":"Rupees",
+         "lat":"27.7172",
+         "lng":"85.3240"
+
+    },
+    {
+        "country":"Pakistan",
+        "language":"Hindi",
+         "population":"100 million",
+         "capital":"Islamabad",
+         "currency":"Rupees",
+         "lat":"33.6844",
+         "lng":"73.0479"
+
+    },
+    {
+        "country":"China",
+        "language":"chinese",
+         "population":"90 million",
+         "capital":"beijing",
+         "currency":"yen",
+         "lat":"39.9042",
+         "lng":"116.4074"
+
+    },
+    {
+        "country":"Russia",
+        "language":"Russian",
+         "population":"15 million",
+         "capital":"Moscow",
+         "currency":"rubel",
+         "lat":"55.7558",
+         "lng":"37.6173"
+
+    }
+   
+    
+]
